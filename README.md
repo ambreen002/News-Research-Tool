@@ -1,7 +1,7 @@
 # News Research Tool 📈
 
 ## Overview
-This tool is a Retriever-Augmented Generation (RAG) based application that leverages the power of Streamlit, Langchain, and OpenAI to create a dynamic web application for researching and analyzing news articles. It extracts data from specified URLs, processes it, and uses a retriever-augmented approach to answer questions by retrieving relevant information and generating contextually relevant responses.
+This tool is a Retrieval-Augmented Generation (RAG) based application that leverages the power of Streamlit, Langchain, and OpenAI to create a dynamic web application for researching and analyzing news articles. It extracts data from specified URLs, processes it, and uses a retrieval-augmented approach to answer questions by retrieving relevant information and generating contextually relevant responses.
 
 ## Features
 - **URL Input**: Users can input up to three news article URLs via the Streamlit sidebar.
